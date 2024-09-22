@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @j22k
-- 👀 I’m interested in Web designing and mobail application devolopment 
+- 👀 I’m interested in Web development and AI 
 - 🌱 I’m currently learning Artifitial Inteligance
 - 📫 How to reach me  junaidkaliyadan@gmai.com
 
