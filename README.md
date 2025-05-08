@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @j22k
 - 👀 I’m interested in Web development and AI 
 - 🌱 I’m currently learning Artifitial Inteligance
-- 📫 How to reach me  junaidkaliyadan@gmai.com
+- 📫 How to reach me  junaidkaliyadan@gmail.com
 
 <!---
 j22k/j22k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
