@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @j22k
 - 👀 I’m interested in Web development and AI 
-- 🌱 I’m currently learning Artifitial Inteligance
+- 🌱 I’m currently learning Artifitial intelligence
 - 📫 How to reach me  junaidkaliyadan@gmail.com
 
 <!---
