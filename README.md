@@ -5,51 +5,51 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Scaling+AI+on+AWS+%E2%98%81%EF%B8%8F;Turning+Data+into+Decisions+%F0%9F%93%8A;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+Intelligent+Systems;Scaling+AI+on+AWS;Turning+Data+into+Decisions;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=j22k&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://twitter.com/@junaidk781588">
-    <img src="https://img.shields.io/twitter/follow/@junaidk781588?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0d1117" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@junaidkaliyadan">
-    <img src="https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d1117" alt="Medium"/>
-  </a>
+ <img src="https://komarev.com/ghpvc/?username=j22k&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
+ <a href="https://twitter.com/@junaidk781588">
+ <img src="https://img.shields.io/twitter/follow/@junaidk781588?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0d1117" alt="Twitter"/>
+ </a>
+ <a href="https://medium.com/@junaidkaliyadan">
+ <img src="https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d1117" alt="Medium"/>
+ </a>
 </p>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 class JunaidK:
-    def __init__(self):
-        self.name       = "Muhammed Junaid K"
-        self.role       = "AI/ML Engineer & Data Pattern Weaver"
-        self.location   = "India 🇮🇳"
-        self.email      = "junaidkaliyadan@gmail.com"
-        self.website    = "https://junaidk.online"
-        self.fun_fact   = "I think I am brilliant! ⚡"
+ def __init__(self):
+ self.name = "Muhammed Junaid K"
+ self.role = "AI/ML Engineer & Data Pattern Weaver"
+ self.location = "India "
+ self.email = "junaidkaliyadan@gmail.com"
+ self.website = "https://junaidk.online"
+ self.fun_fact = "I think I am brilliant! "
 
-    @property
-    def currently(self):
-        return {
-            "building":  "flo-finance-ai → https://flo-finance-ai.vercel.app/",
-            "learning":  ["AWS", "Advanced AI", "ML Systems"],
-            "writing":   "Tech articles on junaidk.online",
-            "ask_me":    ["AI", "ML", "System Design"],
-        }
+ @property
+ def currently(self):
+ return {
+ "building": "flo-finance-ai -> https://flo-finance-ai.vercel.app/",
+ "learning": ["AWS", "Advanced AI", "ML Systems"],
+ "writing": "Tech articles on junaidk.online",
+ "ask_me": ["AI", "ML", "System Design"],
+ }
 ```
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -66,45 +66,46 @@ class JunaidK:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,bash,git&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,bash,git&theme=dark" />
 </p>
 
-### 🤖 AI / ML & Data Science
+### AI / ML & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Seaborn-4EABE5?style=flat-square&logoColor=white" height="48"/>
+ <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+ <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="48"/>
+ <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48"/>
+ <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="48"/>
+ <img src="https://img.shields.io/badge/Seaborn-4EABE5?style=flat-square&logoColor=white" height="48"/>
 </p>
 
-### 🌐 Frontend
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,flutter&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,flutter&theme=dark" />
 </p>
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,graphql,dotnet&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,graphql,dotnet&theme=dark" />
 </p>
 
-### 🗄️ Databases & Messaging
+### Databases & Messaging
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,redis,firebase,kafka,rabbitmq&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,redis,firebase,kafka,rabbitmq&theme=dark" />
+ <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" height="48"/>
 </p>
 
-### 💻 Languages
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,c,cpp,cs&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=python,ts,js,java,c,cpp,cs&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -118,27 +119,27 @@ class JunaidK:
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=j22k&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=j22k&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophies"/>
 </div>
 
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/j22k/j22k/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/j22k/j22k/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/j22k/j22k/output/github-snake-dark.svg" />
-  </picture>
+ <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/j22k/j22k/output/github-snake-dark.svg" />
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/j22k/j22k/output/github-snake.svg" />
+ <img alt="github-snake" src="https://raw.githubusercontent.com/j22k/j22k/output/github-snake-dark.svg" />
+ </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=j22k&bg_color=0d1117&color=00d4ff&line=00d4ff&point=a0c4ff&area=true&hide_border=true" alt="Activity Graph"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=j22k&bg_color=0d1117&color=00d4ff&line=00d4ff&point=a0c4ff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
 </div>
