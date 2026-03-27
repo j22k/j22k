@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Junaid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Data%20Pattern%20Weaver%20%7C%20AWS%20Architect&descAlignY=60&descAlign=50&descSize=16&descColor=a0c4ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Junaid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20AWS%20Architect&descAlignY=60&descAlign=50&descSize=16&descColor=a0c4ff"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+Intelligent+Systems;Scaling+AI+on+AWS;Turning+Data+into+Decisions;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
-</a>
+</a> -->
 
 <br/>
 
